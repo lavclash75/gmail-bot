@@ -1,3 +1,10 @@
 # Gmail bot account generator with selenium
 
-firefox.py #Firefox driver ruuning 
+#Firefox driver ruuning 
+firefox.py 
+
+#Chrome driver
+Chrome.py  
+
+#Phone Mode with chrome 
+mobil.py 
